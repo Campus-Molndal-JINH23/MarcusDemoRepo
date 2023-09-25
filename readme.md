@@ -1,3 +1,13 @@
 # Demorepo
 
-I denna repo demar jag hur man använder sig av Git Flow
+I denna repo visar jag hur man använder sig av Git Flow.
+
+```
+main
+    prod
+        test
+            dev
+                features
+                features
+                features
+```
