@@ -1,3 +1,0 @@
-# Exempelkod
-
-Hello world
